@@ -438,3 +438,5 @@ For an example:
 If I want to apply VINS-MONO: https://github.com/HKUST-Aerial-Robotics/VINS-Mono?tab=readme-ov-file
 I should follow the guide from contributors such as: https://github.com/zinuok/VINS-MONO
 Special alert for Jetson Nano users: Due to the 4GB RAM space, there are usual an additional step taken to swap memory.
+
+All Rights Reserved
